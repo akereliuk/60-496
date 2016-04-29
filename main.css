@@ -1,0 +1,53 @@
+body {
+ background-color: white;
+ font-family: Arial, Helvetica;
+ font-size: 11pt;
+}
+
+.fieldset {
+	display:inline-block;
+	text-align:left;
+}
+
+.fieldsetsmall {
+	display:inline-block;
+	text-align:left;
+	float:left;
+	padding-right:40px;
+	padding-bottom:30px;
+	height:80%;
+}
+ 
+ div.main  {
+
+   }
+   
+  div.scenario {
+	  height:180px;
+	  margin-bottom:10px;
+	  margin-top:10px;
+  }
+   
+.clear {
+   clear: both;
+}
+
+p.p {
+   font-family: Tahoma, Arial, Helvetica;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+ 
+div.new p a {
+  text-decoration: none;
+  color: #005595;
+}
+
+.current{
+	color:#FFFFFF;
+	background:#ff9900;
+}
+ 
+a:link { text-decoration: none } 
+a:active { text-decoration: none }
+a:visited { text-decoration: none }
